@@ -35,8 +35,6 @@ cat > $OFFICEPLIST << "EOT"
 
 EOT
 
-#!/bin/bash
-
 # Specifies which app to deploy from Microsoft Office installer app.
 # The name of the app can be any of these: 
 # Word, Excel, PowerPoint, Outlook, OneDrive, Teams or AutoUpdate
